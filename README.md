@@ -1,22 +1,19 @@
 # Graphic Designer Tools
 
-Colección de **herramientas gratuitas para diseñadores gráficos**. La idea es reunir en un solo lugar recursos sin
-costo para tareas diarias de diseño: edición de imágenes, tipografías, paletas de color, mockups, vectores,
-plantillas para redes y preparación de archivos para impresión.
+🇬🇧 **English** · 🇪🇨 [Español](README.es.md)
 
-> **Estado:** idea en planificación; el repositorio solo contiene este README. Una lista de herramientas de software
-> gratis ya está publicada en [geobas.vercel.app/freeTools](https://geobas.vercel.app/freeTools).
+A collection of **free tools for graphic designers**. The idea is to gather in one place no-cost resources for
+everyday design tasks: image editing, typefaces, color palettes, mockups, vectors, social-media templates and
+print-ready file preparation.
 
-## Cómo contribuir
+> **Status:** idea in planning; the repository only contains this README. A list of free software tools is already
+> published at [geobas.vercel.app/freeTools](https://geobas.vercel.app/freeTools).
 
-Abre un *issue* o un *pull request* con la herramienta que propones: enlace, para qué sirve y si es gratuita,
-*freemium* o de código abierto.
+## How to contribute
 
-## In English
+Open an *issue* or a *pull request* with the tool you suggest: link, what it is for, and whether it is free,
+*freemium* or open source.
 
-Planned collection of free tools for graphic designers. The repository holds only this README for now; a list of
-free software tools is already published at geobas.vercel.app/freeTools.
-
-## Licencia
+## License
 
 [MIT](LICENSE).
